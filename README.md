@@ -1,20 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kanavpreet Singh</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=5000&pause=1500&color=FFEF05&center=true&vCenter=true&random=false&width=500&lines=PEC+CSE'27." alt="Typing SVG" /></a>
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanavpreet-Singh&show_icons=true&theme=tokyonight&hide_border=true)
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanavpreet-Singh&layout=compact&theme=tokyonight&hide_border=true)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Kanavpreet-Singh&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stat-beta.vercel.app?user=Kanavpreet-Singh&theme=tokyonight&hide_border=true)
 
-<!-- GitHub Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kanavpreet-Singh&theme=tokyonight&no-frame=true&column=4)
 
-<!-- Visitor Badge -->
-![Visitor Count](https://komarev.com/ghpvc/?username=Kanavpreet-Singh&color=blue)
+
 
 
 - 🌱 I’m currently learning **Typescript**, **Next.js**
