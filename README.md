@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **Typescript**, **Next.js**
+- 🌱 I’m currently learning **AI**, **Machine Learning**
 
 - 🤙 I’m looking to collaborate on **Web Development Projects**
 
