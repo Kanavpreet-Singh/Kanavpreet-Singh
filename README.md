@@ -38,24 +38,26 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jupyter" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" />
+    <img src="https://skillicons.dev/icons?i=windows,figma" />
   </a>
 </p>
+
+
