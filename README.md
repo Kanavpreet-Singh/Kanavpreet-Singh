@@ -28,35 +28,64 @@
 <a href="https://leetcode.com/u/Kanav_05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanavpreetsingh2005" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages, Tools & OS:</h3>
+<h3 align="left">💻 Languages, Frameworks & Tools:</h3>
 
+<!-- Programming Languages -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" />
   </a>
 </p>
 
+<!-- Frontend -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
   </a>
 </p>
 
+<!-- Backend -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+  </a>
+</p>
+
+<!-- Databases -->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
   </a>
 </p>
 
+<!-- AI / ML / Data Science -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jupyter" />
+    <img src="https://skillicons.dev/icons?i=jupyter" />
+  </a>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD43B?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+<!-- Developer Tools -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
   </a>
 </p>
 
+<!-- Collaboration / Communication -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,figma" />
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+<!-- Design / OS -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,windows" />
   </a>
 </p>
 
