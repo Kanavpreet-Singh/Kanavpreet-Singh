@@ -89,7 +89,7 @@
   </a>
 </p>
 
-# 🏅 Hacktoberfest 2025
+# Hacktoberfest 2025
 
 [![An image of @kps's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kps)](https://holopin.io/@kps)
 
