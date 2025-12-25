@@ -9,12 +9,9 @@
 
 
 
+- 🤙 I’m looking to collaborate on **Full Stack Projects**
 
-- 🌱 I’m currently learning **AI**, **Machine Learning**
-
-- 🤙 I’m looking to collaborate on **Web Development Projects**
-
-- 💬 Ask me about **MERN Stack, Data Structures, C++**
+- 💬 Ask me about **MERN Stack, NextJS, Data Structures, C++**
 
 - 📫 How to reach me **kanavpreetsingh2005@gmail.com**
 
