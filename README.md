@@ -18,20 +18,18 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p style="display: flex; flex-direction: column; gap: 12px; align-items: flex-start;">
-
-<a href="https://www.linkedin.com/in/kanavpreet-singh-khurana-b1544b316/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/kanavpreetsingh2005" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-
-<a href="https://leetcode.com/u/Kanav_05/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/kanavpreet-singh-khurana-b1544b316/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://instagram.com/kanavpreetsingh2005" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/u/Kanav_05/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">💻 Languages, Frameworks & Tools:</h3>
